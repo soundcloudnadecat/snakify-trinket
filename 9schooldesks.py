@@ -1,0 +1,5 @@
+# School desks
+class1 = int(input())
+class2 = int(input())
+class3 = int(input())
+print(a // 2 + b // 2 + c // 2 + a % 2 + b % 2 + c % 2)
